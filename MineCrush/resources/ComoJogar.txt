@@ -1,0 +1,65 @@
+Como Jogar: 
+
+
+            - Seu objetivo é alcançar a maior pontuação possível através de combinações de minérios;
+
+
+            - Combine 3 ou mais minérios iguais para vê-los desaparecerem e sua pontuação aumentar;
+
+
+            - Arraste com seu mouse o minério verticalmente ou horizontalmente para formar uma combinção;
+
+
+            - Preencha os contadores de minérios e ganhe multiplicadores de pontuação em sua próxima rodada;
+
+
+            - Combinar 4 ou mais minérios faz sua pontuação aumentar mais rápido;
+
+
+            - Se precisar de ajuda durante a partida, pressione a tecla "F1" para abrir este tutorial,
+            pressione novamente para fechá-lo;
+
+
+            - Cuidado! Se acabar seus movimentos, é GAME OVER!
+
+
+            - Divirta-se!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
